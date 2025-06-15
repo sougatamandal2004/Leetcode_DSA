@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+| [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
 | ------- |
@@ -38,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
