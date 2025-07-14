@@ -10,19 +10,24 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        ListNode temp = head;
-        ArrayList<Integer> bin = new ArrayList<>();
-        while(temp != null){
-            bin.add(temp.val);
-            temp = temp.next;
-        }
+        ListNode node = head;
+        int length = findLength(node);
         int ans = 0;
-        int size = bin.size();
-        for(int i=size - 1; i >= 0 ; i--){
-            int x = bin.get(i);
-            int exp = size - (i + 1);
-            ans = ans + (int)(x * Math.pow(2, exp));
+        while(node != null){
+           if(node.val == 1){
+            ans += Math.pow(2, length-1);
+           }
+           node = node.next;
+           length--;
         }
         return ans;
+    }
+    public int findLength(ListNode node){
+        int len = 1;
+        while( node.next != null){
+            len++;
+            node = node.next;
+        }
+        return len;
     }
 }
