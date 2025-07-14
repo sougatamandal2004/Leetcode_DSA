@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0041-first-missing-positive) |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Counting
+|  |
+| ------- |
+| [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 <!---LeetCode Topics End-->
