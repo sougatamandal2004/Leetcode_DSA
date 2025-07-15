@@ -11,7 +11,7 @@ class Solution {
 
 
             // same 
-            if(buyPrice >= prices[i]){
+            if(buyPrice > prices[i]){
                 buyPrice = prices[i];
             }
             else{
