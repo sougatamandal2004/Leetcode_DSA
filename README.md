@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
+## String
+|  |
+| ------- |
+| [3396-valid-word](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3396-valid-word) |
 <!---LeetCode Topics End-->
