@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 ## Stack
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [3396-valid-word](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3396-valid-word) |
 ## Matrix
 |  |
