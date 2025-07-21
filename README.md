@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [3396-valid-word](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3396-valid-word) |
 ## Matrix
 |  |
