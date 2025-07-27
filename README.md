@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
