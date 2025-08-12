@@ -24,22 +24,35 @@ class Solution {
 
 
         
-    // this is the best approach
-    // Boyer-Moore Voting Algorithm
+        // this is the best approach
+        // Boyer-Moore Voting Algorithm
 
-    Integer candidate = null;
-    int count = 0;
-    for(int num : nums) {
-        if(count == 0) {
-            candidate = num;
-            count++;
+        Integer candidate = null;
+        int count = 0;
+        for(int num : nums) {
+            if(count == 0) {
+                candidate = num;
+                count++;
+            }
+            else if(candidate != num) {
+                count--;
+            }
+            else count++;
         }
-        else if(candidate != num) {
-            count--;
+        // Verification step
+        count = 0;
+        for (int num : nums) {
+            if (num == candidate) {
+                count++;
+            }
         }
-        else count++;
-    }
-    return candidate;
+
+        if (count > nums.length / 2) {
+            return candidate;
+        } else {
+            // No majority element
+            return -1; // or throw exception or other error value
+        }
     }
     // private static int majority(int[] nums, int si, int ei) {
     //     if(si == ei) {
