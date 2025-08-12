@@ -23,6 +23,8 @@ class Solution {
         }
     }
     public int search(int[] nums, int target) {
+        // we can do it through simple linear search but on that case it take O(n) time complexity
+        // but this will take O(lon n) time complexity
         int si = 0;
         int ei = nums.length - 1;
         return check(nums, target, si, ei);
