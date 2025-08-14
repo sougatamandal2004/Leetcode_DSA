@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
