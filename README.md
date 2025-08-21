@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0932-monotonic-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0932-monotonic-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
