@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0932-monotonic-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0932-monotonic-array) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
