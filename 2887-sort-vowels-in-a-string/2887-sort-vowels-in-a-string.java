@@ -4,8 +4,7 @@ class Solution {
         ArrayList<Character> list = new ArrayList<>();
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-            ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U') {
+            if(isVowel(ch)) {
                 list.add(ch);
             }
         }
@@ -13,8 +12,7 @@ class Solution {
         int x = 0;
         for(int i=0;i<s.length();i++){
             char ch = s.charAt(i);
-            if(ch == 'a' || ch == 'e' || ch == 'i' || ch == 'o' || ch == 'u' ||
-            ch == 'A' || ch == 'E' || ch == 'I' || ch == 'O' || ch == 'U'){
+            if(isVowel(ch)){
                 sb.append(list.get(x));
                 x++;
             }
@@ -24,5 +22,9 @@ class Solution {
         }
         String ans = sb.toString();
         return ans;
+    }
+
+    private boolean isVowel(char ch){
+        return "aeiouAEIOU".indexOf(ch) != -1;
     }
 }
