@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
+| [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3396-valid-word) |
