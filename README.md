@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
