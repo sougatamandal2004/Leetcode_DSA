@@ -5,7 +5,7 @@ class Solution {
         List<Integer> list = new ArrayList<>();
         int i=0,j=0;
         while(j < n){
-            while(!list.isEmpty() && list.get(list.size() - 1) < nums[j]){
+            while(!list.isEmpty() && list.get(list.size() - 1) < nums[j]){ // removing from the right side
                 list.remove(list.size() - 1);
             }
             list.add(nums[j]);
