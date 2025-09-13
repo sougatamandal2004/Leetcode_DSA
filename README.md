@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
+| [0812-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2887-sort-vowels-in-a-string) |
@@ -267,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3462-vowels-game-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
