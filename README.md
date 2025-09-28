@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0932-monotonic-array) |
 | [0940-fruit-into-baskets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
+| [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2887-sort-vowels-in-a-string) |
 ## Linked List
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Backtracking
