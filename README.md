@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3462-vowels-game-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3462-vowels-game-in-a-string) |
 ## Counting
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Recursion
 |  |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0062-unique-paths) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
