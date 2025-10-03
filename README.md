@@ -280,11 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0112-path-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0112-path-sum) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Memoization
 |  |
@@ -341,8 +343,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
