@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Divide and Conquer
 |  |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
 | ------- |
