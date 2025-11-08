@@ -1,14 +1,15 @@
 class Solution {
     public int findPeakElement(int[] nums) {
-        if(nums.length == 1) return 0;
-        int idx = -1;
-        int num = Integer.MIN_VALUE;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i] > num){
-                num = nums[i];
-                idx = i;
+        int i=0, j = nums.length - 1;
+        while(i < j){
+            int mid = i + (j - i)/2;
+            if(nums[mid] > nums[mid+1]){
+                j = mid;
+            }
+            else{
+                i = mid+1;
             }
         }
-        return idx;
+        return i;
     }
 }
