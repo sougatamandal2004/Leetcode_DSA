@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0908-middle-of-the-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Stack
 |  |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
 | [1642-water-bottles](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1642-water-bottles) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
