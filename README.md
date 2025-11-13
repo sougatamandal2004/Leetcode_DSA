@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
