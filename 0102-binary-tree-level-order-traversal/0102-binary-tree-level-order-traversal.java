@@ -21,14 +21,15 @@ class Solution {
         q.add(root);
         while(!q.isEmpty()){
             int size = q.size();
-            List<Integer> li = new ArrayList<>();
+            List<Integer> inner = new ArrayList<>();
             for(int i=0;i<size;i++){
-                TreeNode node = q.remove();
-                li.add(node.val);
-                if(node.left != null) q.add(node.left);
-                if(node.right != null) q.add(node.right);
+                TreeNode temp = q.peek();
+                inner.add(temp.val);
+                q.remove();
+                if(temp.left != null) q.add(temp.left);
+                if(temp.right != null) q.add(temp.right);
             }
-            list.add(li);
+            list.add(inner);
         }
         return list;
     }
