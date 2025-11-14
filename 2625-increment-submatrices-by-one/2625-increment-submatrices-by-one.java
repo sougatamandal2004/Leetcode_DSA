@@ -40,6 +40,6 @@ class Solution {
                 ans[i][j] = diff[i][j] + top + left - diag;
             }
         }
-        return ans;
+        return ans; // this is taken from chatgpt so dry run and understand this
     }
 }
