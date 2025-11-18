@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
