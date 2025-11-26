@@ -27,13 +27,17 @@ class Solution {
             for(int i=0;i<size;i++){
                 TreeNode node = q.peek();
                 q.remove();
-                innerList.add(node.val);
+                if(cnt%2 == 0){
+                    innerList.add(0, node.val);
+                } else{
+                    innerList.add(node.val);
+                }
                 if(node.left != null) q.add(node.left);
                 if(node.right != null) q.add(node.right);
             }
-            if(cnt%2 == 0){
-                Collections.reverse(innerList);
-            }
+            // if(cnt%2 == 0){
+            //     Collections.reverse(innerList);
+            // }
             list.add(innerList);
             cnt++;
         }
