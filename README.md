@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0162-find-peak-element) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
@@ -358,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 ## Sliding Window
 |  |
@@ -439,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
