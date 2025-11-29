@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3336-water-bottles-ii) |
 | [3462-vowels-game-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3462-vowels-game-in-a-string) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
