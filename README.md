@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2625-increment-submatrices-by-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2625-increment-submatrices-by-one) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3336-water-bottles-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3336-water-bottles-ii) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3462-vowels-game-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
