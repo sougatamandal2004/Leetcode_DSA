@@ -13,13 +13,12 @@ class Solution {
                 while(!q.isEmpty()){
                     int curr = q.remove();
                     for(int j=0;j<graph[curr].length;j++){
-                        int idx = graph[curr][j];
-                        if(col[idx] == -1){
-                            int nextCol = col[curr] == 0 ? 1 : 0;
-                            col[idx] = nextCol;
-                            q.add(idx);
+                        int nextCol = graph[curr][j];
+                        if(col[nextCol] == -1){
+                            col[nextCol] = col[curr] == 0 ? 1 : 0;
+                            q.add(nextCol);
                         }
-                        else if(col[idx] == col[curr]){
+                        else if(col[nextCol] == col[curr]){
                             return false;
                         }
                     }
