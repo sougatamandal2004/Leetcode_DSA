@@ -1,38 +1,34 @@
 class Solution {
     public int[] findOrder(int numCourses, int[][] prerequisites) {
-        int ans[] = new int[numCourses];
-        int indeg[] = new int[numCourses];
-        // int outdeg[] = new int[numCourses];
-        for(int i=0;i<prerequisites.length;i++){
-            int x = prerequisites[i][0];
-            // int y = prerequisites[i][1];
-            indeg[x]++;
-            // outdeg[x]++;
+        List<List<Integer>> adj = new ArrayList<>();
+        for (int i=0;i<numCourses;i++) {
+            adj.add(new ArrayList<>());
         }
-
-        Queue<Integer> q = new LinkedList<>();
-        for(int i=0;i<indeg.length;i++){
-            if(indeg[i] == 0){
-                q.add(i);
+        int[] indegree = new int[numCourses];
+        for (int[] prerequisite:prerequisites) {
+            int a = prerequisite[0];
+            int b = prerequisite[1];
+            adj.get(b).add(a);
+            indegree[a]++;
+        }
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i=0;i<numCourses;i++) {
+            if (indegree[i]==0) {
+                queue.add(i);
             }
         }
-        // if(q.size() == 0) return ans;
-
-        int idx = 0;
-        while(!q.isEmpty()){
-            int curr = q.remove();
-            ans[idx++] = curr;
-            for(int i=0;i<prerequisites.length;i++){
-                if(prerequisites[i][1] == curr){
-                    int x = prerequisites[i][0];
-                    indeg[x]--;
-                    if(indeg[x] == 0){
-                        q.add(x);
-                    }
+        int[] topo = new int[numCourses];
+        int i = 0;
+        while (!queue.isEmpty()) {
+            int curr = queue.poll();
+            topo[i++] = curr;
+            for (int node:adj.get(curr)) {
+                indegree[node]--;
+                if (indegree[node]==0) {
+                    queue.add(node);
                 }
             }
         }
-        if(idx != numCourses) return new int[0];
-        return ans;
+        return i==numCourses?topo:new int[]{};
     }
 }
