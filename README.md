@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -377,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0112-path-sum) |
 | [0210-course-schedule-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Memoization
 |  |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0210-course-schedule-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
+| [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Topological Sort
 |  |
 | ------- |
