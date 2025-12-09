@@ -14,7 +14,7 @@ class Solution {
     public void dfs(int pos, int len, StringBuilder sb, String digits, List<String> ans, char[][] l) {
         if(pos == len){
             ans.add(sb.toString());
-            //return;
+            return;
         }
         else{
             char[] letters = l[Character.getNumericValue(digits.charAt(pos))];
