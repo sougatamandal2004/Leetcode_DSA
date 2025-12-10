@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0165-compare-version-numbers) |
+| [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0686-repeated-string-match) |
