@@ -1,14 +1,16 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        int ans = 0;
-        int n = nums.size();
-        for(int i=0;i<=31;i++){
-            int cnt = 0;
-            for(int j=0;j<n;j++){
-                if((nums[j]>>i) & 1) cnt++;
+        unordered_map<int, int> map;
+        for(int i=0;i<nums.size();i++){
+            map[nums[i]]++;
+        }
+        int ans = -1;
+        for(auto it : map){
+            if(it.second == 1){
+                ans = it.first;
+                break;
             }
-            if(cnt%3) ans |= (1 << i);
         }
         return ans;
     }
