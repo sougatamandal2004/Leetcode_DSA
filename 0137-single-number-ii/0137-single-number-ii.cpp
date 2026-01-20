@@ -1,0 +1,15 @@
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        int ans = 0;
+        int n = nums.size();
+        for(int i=0;i<=31;i++){
+            int cnt = 0;
+            for(int j=0;j<n;j++){
+                if((nums[j]>>i) & 1) cnt++;
+            }
+            if(cnt%3) ans |= (1 << i);
+        }
+        return ans;
+    }
+};
