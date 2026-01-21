@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
+| [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
+| [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
 | [1642-water-bottles](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
