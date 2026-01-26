@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0940-fruit-into-baskets) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -308,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -459,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
 |  |
@@ -552,5 +558,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
