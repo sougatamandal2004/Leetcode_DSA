@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -570,4 +572,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
