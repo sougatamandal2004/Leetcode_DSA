@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
