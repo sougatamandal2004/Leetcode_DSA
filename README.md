@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0223-rectangle-area) |
+| [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Tree
