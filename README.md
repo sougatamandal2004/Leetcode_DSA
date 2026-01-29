@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
+| [0149-max-points-on-a-line](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0070-climbing-stairs) |
+| [0149-max-points-on-a-line](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0223-rectangle-area) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
