@@ -13,7 +13,7 @@ public:
                 t = j - i;
                 char x = s[i++];
                 map[x]--;
-                if(map[x] == 0) map.erase(x);
+                //if(map[x] == 0) map.erase(x);
             }
             ans = max(ans, j - i + 1);
         }
