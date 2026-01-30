@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
+| [0611-valid-triangle-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0908-middle-of-the-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0704-binary-search) |
 | [0792-binary-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0792-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0611-valid-triangle-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
@@ -410,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0611-valid-triangle-number) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
