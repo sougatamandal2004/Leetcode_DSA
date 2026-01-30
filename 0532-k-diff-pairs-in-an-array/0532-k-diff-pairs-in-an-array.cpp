@@ -13,7 +13,7 @@ public:
             } else{
                 cnt++;
                 p1++;
-                while(p1 < n && (nums[p1] == nums[p1-1])){
+                while(p1 < p2 && (nums[p1] == nums[p1-1])){
                     p1++;
                 } 
             }
