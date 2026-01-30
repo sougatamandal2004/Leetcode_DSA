@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
+| [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Queue
