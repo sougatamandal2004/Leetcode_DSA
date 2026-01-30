@@ -8,7 +8,9 @@ public:
         for(int j=0;j<n;j++){
             char ch = s[j];
             map[ch]++;
+            int t = 0;
             while(map[ch] > 1){
+                t = j - i;
                 char x = s[i++];
                 map[x]--;
                 if(map[x] == 0) map.erase(x);
