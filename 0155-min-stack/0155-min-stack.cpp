@@ -6,17 +6,17 @@ public:
         mini = INT_MAX;
     }
     
-    void push(int x) {
+    void push(int val) {
         if(st.empty()){
-            st.push(x);
-            mini = x;
+            st.push(val);
+            mini = val;
         }
-        else{
-            if(mini < x) st.push(x);
+        else {
+            if(mini < val) st.push(val);
             else{
                 st.push(mini);
-                st.push(x);
-                mini = x;
+                st.push(val);
+                mini = val;
             }
         }
     }
@@ -28,13 +28,14 @@ public:
             if(!st.empty()){
                 mini = st.top();
                 st.pop();
-            }
+            } 
         } else{
             st.pop();
         }
     }
     
     int top() {
+        // if(st.empty()) return -1;
         return st.top();
     }
     
