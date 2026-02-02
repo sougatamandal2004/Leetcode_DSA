@@ -13,7 +13,7 @@ public:
                 else if(token == "*") st.push(y*x);
                 else st.push(y/x);
             } else{
-                st.push(atoi(token.c_str()));
+                st.push(stoi(token));
             }
         }
         return st.top();
