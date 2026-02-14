@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
+| [0799-champagne-tower](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
