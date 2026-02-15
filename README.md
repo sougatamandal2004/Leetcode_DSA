@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0137-single-number-ii) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
