@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
