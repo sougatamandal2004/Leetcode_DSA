@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2887-sort-vowels-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2887-sort-vowels-in-a-string) |
 | [3396-valid-word](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3396-valid-word) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
 | [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1642-water-bottles](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
