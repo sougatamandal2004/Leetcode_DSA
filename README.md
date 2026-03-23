@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
 | [2625-increment-submatrices-by-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
