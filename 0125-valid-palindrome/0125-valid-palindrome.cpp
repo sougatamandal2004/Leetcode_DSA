@@ -1,21 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-       vector<char> str;
-       for(int i=0;i<s.length();i++){
-        if(isalnum(s[i])){ // checks if the character is alphanumeric or not
-            str.push_back(tolower(s[i]));
+        transform(s.begin(), s.end(), s.begin(), ::tolower);
+        string t;
+        for(char ch : s){
+            if(isalnum(ch)){
+                t += ch;
+            }
         }
-       }
-       int f = 0;
-       int l = str.size() - 1;
-       while(f < l){
-        if(str[f] != str[l]){
-            return false;
+        int i = 0, j = t.size() - 1;
+        while(i < j){
+            if(t[i++] != t[j--]){
+                return false;
+            }
         }
-        f++;
-        l--;
-       }
-       return true;
+        return true;
     }
 };
