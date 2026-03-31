@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
+| [0509-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0799-champagne-tower](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0799-champagne-tower) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0830-largest-triangle-area) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1922-count-good-numbers) |
 ## Greedy
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
+| [0509-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
