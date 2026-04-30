@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0165-compare-version-numbers) |
 | [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
@@ -500,6 +501,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
 |  |
@@ -518,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0210-course-schedule-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
@@ -616,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
 |  |
@@ -630,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
