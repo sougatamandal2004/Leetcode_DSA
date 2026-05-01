@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0338-counting-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0509-fibonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0509-fibonacci-number) |
 | [0587-erect-the-fence](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0587-erect-the-fence) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0443-string-compression) |
 | [0686-repeated-string-match](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
