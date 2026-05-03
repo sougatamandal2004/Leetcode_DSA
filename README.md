@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0686-repeated-string-match) |
 | [0696-count-binary-substrings](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
@@ -589,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0686-repeated-string-match](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0686-repeated-string-match) |
+| [0796-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0812-rotate-string) |
 ## Number Theory
 |  |
