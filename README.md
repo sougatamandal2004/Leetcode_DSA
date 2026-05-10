@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2625-increment-submatrices-by-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3227-find-missing-and-repeated-values) |
 | [3379-transformed-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3379-transformed-array) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Two Pointers
 |  |
 | ------- |
