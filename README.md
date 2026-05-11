@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2421-maximum-number-of-pairs-in-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2625-increment-submatrices-by-one](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 | [3336-water-bottles-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3379-transformed-array) |
