@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0054-spiral-matrix) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
