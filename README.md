@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1306-jump-game-iii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1306-jump-game-iii) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1306-jump-game-iii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1306-jump-game-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
@@ -551,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [1306-jump-game-iii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1306-jump-game-iii) |
 | [2662-check-knight-tour-configuration](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2662-check-knight-tour-configuration) |
 ## Memoization
 |  |
