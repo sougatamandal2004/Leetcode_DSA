@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1006-clumsy-factorial](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1006-clumsy-factorial) |
+| [1021-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0796-rotate-string) |
 | [0812-rotate-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1302-delete-characters-to-make-fancy-string) |
