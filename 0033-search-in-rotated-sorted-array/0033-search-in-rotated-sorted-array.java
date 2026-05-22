@@ -1,32 +1,30 @@
 class Solution {
-    public int check(int[] nums, int target, int si, int ei){
-        if(si > ei) return -1;
-        int mid = si + (ei - si) / 2;
-        if(nums[mid] == target) return mid;
-        // 1st condition
-        if(nums[si] <= nums[mid]) {
-            if(nums[si] <= target && target <= nums[mid]){
-                return check(nums, target, si, mid);
+    public int search(int[] nums, int target) {
+        int n = nums.length;
+        int i = 0, j = n - 1;
+        int ans = -1;
+        while(i <= j) {
+            int mid = i + (j - i) / 2;
+            if(nums[mid] == target){
+                ans = mid;
+                break;
+            }
+            else if(nums[i] <= nums[mid]){
+                if(nums[i] <= target && target < nums[mid]){
+                    j = mid - 1;
+                } else{
+                    i = mid + 1;
+                }
             }
             else{
-                return check(nums, target, mid+1, ei);
+                if(nums[mid] < target && target <= nums[j]){
+                    i = mid + 1;
+                }
+                else{
+                    j = mid - 1;
+                }
             }
         }
-        // 2nd condition
-        else{
-            if(nums[mid] <= target && target <= nums[ei]){
-                return check(nums, target, mid, ei);
-            }
-            else {
-                return check(nums, target, si, mid - 1);
-            }
-        }
-    }
-    public int search(int[] nums, int target) {
-        // we can do it through simple linear search but on that case it take O(n) time complexity
-        // but this will take O(lon n) time complexity
-        int si = 0;
-        int ei = nums.length - 1;
-        return check(nums, target, si, ei);
+        return ans;
     }
 }
