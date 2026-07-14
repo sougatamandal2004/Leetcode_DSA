@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0118-pascals-triangle) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0063-unique-paths-ii) |
 | [0073-set-matrix-zeroes](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0079-word-search) |
 | [0898-transpose-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0898-transpose-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/1677-matrix-diagonal-sum) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Combinatorics
@@ -535,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sougatamandal2004/Leetcode_DSA/tree/master/0104-maximum-depth-of-binary-tree) |
